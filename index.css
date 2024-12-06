@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+  }
+
+  html {
+    text-align: center;
+  }
+
+  .resume-description {
+    text-align: center;
+    font-family: "poppins", "sanas-serif"
+  }
+
+  img {
+    border-radius: 80%;
+  }
+  h1 {
+    font-weight: 900;
+  }
+
+.banner {
+    <div class="flex-container">
+}
